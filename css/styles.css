@@ -6,7 +6,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background: #f4f6f9;
-  padding: 40px;
+  padding: 5px;
 }
 
 .wrapper {
@@ -31,10 +31,10 @@ body {
 }
 
 .about-me {
-  padding-left: 45px;
-  padding-top: 55px;
-  padding-right: 45px;
-  padding-bottom: 55px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 15px;
 }
 
 .about-me p {
@@ -45,8 +45,8 @@ body {
 }
 
 .contacts {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
   margin-top: 30px;
 }
 .contacts-title {
@@ -57,7 +57,7 @@ body {
   font-weight: 700;
 }
 .contacts-link {
-  color: #525b67;
+  color: #e1e2e5;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -73,7 +73,7 @@ body {
 .tech-skills {
   margin-left: 40px;
   margin-right: 40px;
-  margin-top: 55px;
+  margin-top: 30px;
 }
 
 .tech-skills-title {
@@ -103,9 +103,9 @@ body {
 }
 
 .name {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 30px;
   padding-top: 25px;
 }
 
@@ -114,12 +114,12 @@ body {
   color: #595959;
   font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
-  padding-top: 25px;
+  line-height: 18px;
+  padding-top: 10px;
 }
 
 .ptitle {
-  padding-top: 25px;
+  padding-top: 20px;
   padding-bottom: 15px;
   font-size: 22px;
   font-weight: 700;
@@ -130,19 +130,19 @@ body {
   margin-left: 15px;
   font-size: 14px;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 18px;
 }
 .pitem2 {
   color: #595959;
   font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 18px;
 }
 
 .comname {
   font-size: 16px;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 20px;
 }
 
 .comnamecol {
@@ -153,7 +153,7 @@ body {
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .timework {
@@ -162,7 +162,7 @@ body {
   color: #a8a8a8;
   font-size: 12px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 16px;
 }
 
 .border {
@@ -173,13 +173,13 @@ body {
   color: #595959;
   font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 18px;
   margin-left: 15px;
   width: 535px;
 }
 
 .educ {
-  margin-top: 25px;
+  margin-top: 15px;
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
